@@ -94,4 +94,5 @@ Regulatory changes and global events significantly influence platform growth dyn
 🚀 Conclusion
 
 This dashboard provides a strategic view of Airbnb’s global performance by combining growth trends, market share analysis, pricing strategy, and customer satisfaction metrics. The insights support data-driven decision-making for market expansion, pricing optimization, and quality improvement initiatives.
-Screenshot: 
+Screenshot: (https://github.com/kashishsachan251-ctrlKash/Airbnb-Dashboard-Analysis/blob/main/Screenshot%202026-02-27%20193729.png)
+
